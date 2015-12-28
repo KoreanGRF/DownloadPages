@@ -2,7 +2,7 @@
 
 # lang_name     : Language name in their native language
 # lange_name_en : Language name in English
-lang_name					:Espanol
+lang_name					:Español
 lang_name_en					:Spanish
 lang_code					:es
 lang_code_for_locale				:es_ES
