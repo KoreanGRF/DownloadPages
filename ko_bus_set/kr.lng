@@ -5,7 +5,7 @@ lang_code					:kr
 # NewGRF Informations
 grfname						:한국 버스 세트
 title_introduction				:한국 버스 세트 소개
-detail_comment					:<b>한국 버스 세트</b>는 OpenTTD에 서울 버스와 경기도 버스를 추가해주는 NewGRF입니다. OpenTTD의 NewGRF 설정창의 매개 변수 설정을 통해 버스의 속도와 화물 수송량을 조절할 수 있으며, 개조를 통해 승객 이외의 다른 화물도 수송할 수 있습니다. 한국 버스 세트를 적용하면 v0.3.2 기준으로 아래와 같이 <u>8종의 버스가 추가</u>됩니다.
+detail_comment					:<b>한국 버스 세트</b>는 OpenTTD에 서울 버스와 경기도 버스를 추가해주는 NewGRF입니다. OpenTTD의 NewGRF 설정창의 매개 변수 설정을 통해 버스의 속도와 화물 수송량을 조절할 수 있으며, 개조를 통해 승객 이외의 다른 화물도 수송할 수 있습니다. 한국 버스 세트를 적용하면 v0.3.6 기준으로 아래와 같이 <u>8종의 버스가 추가</u>됩니다.
 
 # Vehicle's names
 STR_SEOULBUS_B_NAME				:서울 버스 (B, 저상)
