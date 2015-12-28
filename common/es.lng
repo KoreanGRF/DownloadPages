@@ -1,0 +1,43 @@
+##grflangid 0x04
+
+# lang_name     : Language name in their native language
+# lange_name_en : Language name in English
+lang_name					:Espanol
+lang_name_en					:Spanish
+lang_code					:es
+lang_code_for_locale				:es_ES
+
+# Month Format : 'month_format' follows the format of date() function in PHP
+month_format					:%d/%m/%y
+
+# Page layout
+download					:Descarga
+latest						:Reciente
+old						:Antigua
+version						:Versión
+up_date						:Actualizado
+md5sum						:MD5sum
+vehicle_img					:Imagen
+vehicle_name					:Nombre del vehículo
+able						:Disponible
+unable						:No disponible
+fold						:Doblar
+
+title_recent_version				:Descarga de Versión/es Reciente/s
+title_old_version				:Descarga de Versión/es Antigua/s
+title_vehicle_list				:Vehículos añadidos
+title_faq					:Preguntas más frecuentes (FAQ)
+title_readme					:Léame
+title_changelog					:Listado de cambios
+title_more_information				:Más información para los usuarios no coreanos
+painting_change					:Cambio de Modelo/Pintura
+written_in_kr					: (escrito en coreano)
+written_in_en					: (escrito en inglés)
+
+more_information_basic				:* Si desea más información (en inglés), entonces, por favor, escríbame un email (telk5093@gmail.com)
+# more_information_translation			:(Not translated)
+translate_to					:Traducir {STRING} al inglés mediante Google Translator:
+
+context_download				:Haga clic en el nombre del archivo que quiera descargar. (No es necesario iniciar sesión ni registro alguno para descargar)
+# info_beta_version				:(Not translated)
+# preview_img_text				:(Not used) (Haga click para una vista completa)

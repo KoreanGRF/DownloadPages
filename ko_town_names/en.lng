@@ -1,0 +1,8 @@
+﻿# Language name and code
+lang_name					:English
+lang_code					:en
+
+# NewGRF Informations
+grfname						:Korean Town Names
+title_introduction				:Introduction of Korean Town Names
+detail_comment					:<b>Korean Town Names</b> contains Real city names and Virtual city names of Korea in one file.<br />Real city names contain 162 real 'Si' or 'Gun' level cities in Korea. Be aware that it could occur an error or be duplicated name from 163rd city.<br />Virtual city names are combinations of the real city's first letter and the last letter. It might be ridiculous name(ex. Gogi, Gido, Yesu...; which means meat, pray, jesus, respectively) for korean. It only make two letter names because korean city names are mostly two letter, and 'Buk(north)/Nam(south)/Dong(east)/Seo(west)' and 'Po(port)/San(Mt.)/Cheon(river)/Nae(stream)/Got(cape)' can be attached in front of/in back of the city names in some probablities.<br /><br /><b><span class="shadow" style="color:red;">Alert!</span></b> This NewGRF is written in <u>Hangeul</u>(Korean alphabet)<br />You need a font that can present korean letter such as Gulim, Dotum, Malgun Gothic, etc. It might be shown as broken if your PC does not have korean font. If you were, then download another NewGRF: '<a href="http://grfcrawler.tt-forums.net/details.php?do=details&id=278" target="_blank"><u>South Korean Town Names(click)</u></a>'.</p>

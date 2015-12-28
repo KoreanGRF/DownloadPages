@@ -1,0 +1,44 @@
+﻿##grflangid 0x00
+
+# lang_name     : Language name in their native language
+# lange_name_en : Language name in English
+lang_name					:English
+lang_name_en					:English
+lang_code					:en
+lang_code_for_locale				:en_UK
+
+# Month Format : 'month_format' follows the format of strftime() function in PHP
+month_format					:%b %e, %Y
+
+# Page layout
+download					:Download
+latest						:Recent
+old						:Old
+version						:Version
+stable						:Stable
+nightly						:Nightly
+up_date						:Registered
+md5sum						:MD5sum
+vehicle_img					:Image
+vehicle_name					:Vehicle name
+painting_able					:Able
+painting_unable					:Unable
+fold						:Fold
+
+title_recent_version				:Download recent versions
+title_old_version				:Download old versions
+title_vehicle_list				:Added vehicles
+title_faq					:Frequently Asked Questions
+title_readme					:Readme
+title_changelog					:Changelog
+title_more_information				:More information for non-Korean users
+painting_change					:Model/Painting change
+written_in_kr					: (written in Korean)
+written_in_en					: (written in English)
+
+more_information_basic				:* If you want more information in English, then please email me (telk5093@gmail.com)
+more_information_translation			:* If you want to translate this NewGRF into your language, download <a href="/ottd/newgrf/{GRFCODE}/lang/english.lng" target="_blank" class="external">NewGRF language file (required)</a> and download page language files (which translates this page, elective) (<a href="/ottd/newgrf/lang/en.lng" target="_blank" class="external">common</a> / <a href="/ottd/newgrf/{GRFCODE}/lang/en.lng" target="_blank" class="external">individual</a>), translate them and email(telk5093@gmail.com) me.
+translate_to					:Translate {STRING} into English by Google Translator:
+context_download				:Click the file name that you want to download. (You don't need to login or sign up to download)
+info_beta_version				:Just use beta version for test, and please update when new stable version is released immediately.
+# preview_img_text				:(Click to full view)

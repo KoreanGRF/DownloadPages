@@ -1,0 +1,44 @@
+﻿##grflangid 0x3A
+
+# lang_name     : Language name in their native language
+# lange_name_en : Language name in English
+lang_name					:한국어
+lang_name_en					:Korean
+lang_code					:kr
+lang_code_for_locale				:ko_KR
+
+# Month Format : 'month_format' follows the format of strftime() function in PHP
+month_format					:%Y.%m.%d
+
+# Page layout
+download					:다운로드
+latest						:최신
+old						:구
+version						:버전
+stable						:안정
+nightly						:개발
+up_date						:등록일
+md5sum						:MD5sum
+vehicle_img					:이미지
+vehicle_name					:차량명
+able						:가능
+unable						:불가능
+fold						:펼치기
+
+title_recent_version				:최신 버전 다운로드
+title_old_version				:구 버전 다운로드
+title_vehicle_list				:추가되는 차량
+title_faq					:자주 하는 질문
+title_readme					:읽어보기 파일 내용
+title_changelog					:업데이트 내역
+title_more_information				:NewGRF 번역
+painting_change					:도색/모델 변경
+written_in_kr					:
+written_in_en					: (영어)
+
+# more_information_basic			:(Not used)
+more_information_translation			:이 NewGRF을 다른 언어로 번역하고자 하시는 분은 <b>NewGRF 언어 파일[필수]</b>(<a href="/ottd/newgrf/{GRFCODE}/lang/korean.lng" target="_blank" class="external">한국어</a> / <a href="/ottd/newgrf/{GRFCODE}/lang/english.lng" target="_blank" class="external">영어</a>), <b>다운로드 페이지 공통 언어 파일[선택]</b>(<a href="/ottd/newgrf/lang/kr.lng" target="_blank" class="external">한국어</a> / <a href="/ottd/newgrf/lang/en.lng" target="_blank" class="external">영어</a>), <b>다운로드 페이지 개별 언어 파일[선택]</b>(<a href="/ottd/newgrf/{GRFCODE}/lang/kr.lng" target="_blank" class="external">한국어</a> / <a href="/ottd/newgrf/{GRFCODE}/lang/en.lng" target="_blank" class="external">영어</a>)을 모두 다운로드받아 번역하신 뒤, telk5093@gmail.com 으로 보내주세요.
+translate_to					:구글 번역기로 {STRING}을 한국어로 번역하기:
+context_download				:아래에서 다운받기 원하시는 버전의 파일명을 클릭하시면 다운로드가 시작됩니다. (비회원 다운로드 가능)
+info_beta_version				:beta 버전은 테스트용으로만 사용하시고, 새 버전이 나오면 바로 업데이트해주세요.
+# preview_img_text				:크게 보려면 클릭하세요.

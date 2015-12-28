@@ -1,0 +1,18 @@
+﻿# Language name and code
+lang_name					:日本語
+lang_code					:jp
+
+# NewGRF Informations
+grfname						:韓国バスセット
+title_introduction				:韓国バスセットの紹介
+detail_comment					:<b>韓国バスセット</b>はOpenTTDにソウルと京畿（ギョンギ）道のバスを追加するNewGRFです。OpenTTDのNewGRFの設定ウィンドウのパラメータ設定を利用してバスの速度と貨物の輸送量を調節できるし、改装を利用して乗客以外の別の貨物も輸送できます。韓国バスセットを適用すればv0.3.2基準で下のように<u>8種のバスが追加</u>されます。
+
+# Vehicle's names
+STR_SEOULBUS_B_NAME				:ソウルバス (B, 底床)
+STR_SEOULBUS_G_NAME				:ソウルバス (G, 底床)
+STR_SEOULBUS_R_NAME				:ソウルバス (R, 底床)
+STR_SEOULBUS_Y_NAME				:ソウルバス (Y, 底床)
+STR_GBUS_G_NAME					:京畿道 G-BUS (綠)
+STR_GBUS_R_NAME					:京畿道 G-BUS (赤)
+STR_GBUS_Y_NAME					:京畿道 G-BUS (黃)
+STR_GBUS_B_NAME					:京畿道 G-BUS (靑)

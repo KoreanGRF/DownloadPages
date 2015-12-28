@@ -1,0 +1,42 @@
+##grflangid 0x39
+
+# lang_name     : Language name in their native language
+# lange_name_en : Language name in English
+lang_name					:日本語
+lang_name_en					:Japanese
+lang_code					:jp
+lang_code_for_locale				:ja_JP
+
+# Month Format : 'month_format' follows the format of strftime() function in PHP
+month_format					:%Y.%m.%d
+
+# Page layout
+download					:ダウンロード
+latest						:最新
+old						:旧
+version						:バージョン
+up_date						:アップデート日付
+md5sum						:MD5sum
+vehicle_img					:イメージ
+vehicle_name					:車名
+painting_able					:可能
+painting_unable					:不可能
+fold						:展開
+
+title_recent_version				:最新バージョンダウロード
+title_old_version				:旧バージョンダウンロード
+title_vehicle_list				:追加されている車両
+title_faq					:よくある質問
+title_readme					:Readmeファイル内容
+title_changelog					:アップデート内訳
+title_more_information				:非韓国語圏のユーザーの場合
+painting_change					:塗装変更
+written_in_kr					: (韓国語)
+written_in_en					: (英語)
+
+more_information_basic				:＊もっとおおくの日本語の情報をご希望の場合、telk5093@gmail.comでEmailを送ってください。
+more_information_translation			:＊このNewGRFを自国の言語で翻訳したいお方は、<a href="/ottd/newgrf/{GRFCODE}/lang/english.lng" target="_blank" class="external">NewGRF基本言語パイル(必修)</a>とダウンロード言語パイル(選択) (<a href="/ottd/newgrf/lang/en.lng" target="_blank" class="external">共通</a> / <a href="/ottd/newgrf/{GRFCODE}/lang/en.lng" target="_blank" class="external">個別</a>)をダウンロードして翻訳する後、telk5093@gmail.comでEmailを送ってください。
+translate_to					:Google翻訳で{STRING}を日本語に翻訳する：
+context_download				:ダウンロードするバージョンをクリックしてダウンロードしなさい。 (ログインや会員加入は必要ありません。)
+info_beta_version				:ベータバージョンはテスト用だけで使用して、新しいバージョンが出るとすぐにアップデートして下さい。
+# preview_img_text				:(大きく見るためには、クリックしてください。)

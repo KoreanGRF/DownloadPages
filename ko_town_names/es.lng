@@ -1,0 +1,8 @@
+﻿# Language name and code
+lang_name					:Español
+lang_code					:es
+
+# NewGRF Informations
+grfname						:Set - Nombres de ciudades Coreanas
+title_introduction				:Introducción al Set - Nombres de ciudades Coreanas
+detail_comment					:El <b>Set - Nombres de ciudades Coreanas</b> contiene nombres de ciudades Coreanas tanto reales como virtuales en un solo archivo.<br />Los nombres reales contienen 162 nombres de ciudades Coreanas del nivel de 'Si' o 'Gun'. Cuidado, pudiera darse el caso de que se produjera un error o duplicara un nombre en la ciudad 163.<br />Los nombres virtuales son creados por la combinación de la primera y última letra de las ciudades reales. Curiosamente, este sistema crea a veces nombres ridículos (por ejemplo: Gogi, Gido, Yesu...; Cuyo significado es carne, rezar, Jesús) en Coreano. El motivo de usar solo dos letras para los nombres es simple, las ciudades Coreanas tienen en su mayoría dos letras, y 'Buk(norte)/Nam(sur)/Dong(este)/Seo(oeste)' y 'Po(puerto)/San(Montaña)/Naru(muelle)' pueden añadirse delante/detrás del nombre de la ciudad en alguna ocasión.<br /><br /><b><span class="shadow" style="color:red;">¡Aviso!</span></b> Este NewGRF está escrito en <u>Hangeul</u>(alfabeto Coreano).<br />Necesitas una fuente capaz de mostrar letras en Coreano como Gulim, Dotum, Malgun Gothic, etc. De no disponer de la fuente adecuada en su ordenador, una que sea capaz de mostrar las letras Coreanas, es muy posible que al usar este NewGRF se te muestre como si tuvieras el ordenador averiado. Si lo deseas, puedes descargar otro NewGRF (que ya cuenta con todos los nombres romanizados): '<a href="http://grfcrawler.tt-forums.net/details.php?do=details&id=278" target="_blank"><u>South Korean Town Names</u></a>'.</p>

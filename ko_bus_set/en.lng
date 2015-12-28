@@ -1,0 +1,18 @@
+﻿# Language name and code
+lang_name					:English
+lang_code					:en
+
+# NewGRF Informations
+grfname						:Korean Bus Set
+title_introduction				:Introduction of Korean Bus Set
+detail_comment					:<b>Korean Bus Set</b> is a NewGRF of OpenTTD which adds buses of Seoul and Gyeonggi-do. It has parameters so that you can change buses' speed and capacity. And they can also deliver other cargos by refitting. It adds <u>8 type of Buses</u> if you apply Korean Bus Set v0.3.2. Belows are detailed list of buses that it adds.
+
+# Vehicle's names
+STR_SEOULBUS_B_NAME				:Seoul Bus (Blue)
+STR_SEOULBUS_G_NAME				:Seoul Bus (Green)
+STR_SEOULBUS_R_NAME				:Seoul Bus (Red)
+STR_SEOULBUS_Y_NAME				:Seoul Bus (Yellow)
+STR_GBUS_G_NAME					:Gyeonggi-do G-BUS (Green)
+STR_GBUS_R_NAME					:Gyeonggi-do G-BUS (Red)
+STR_GBUS_Y_NAME					:Gyeonggi-do G-BUS (Yellow)
+STR_GBUS_B_NAME					:Gyeonggi-do G-BUS (Blue)

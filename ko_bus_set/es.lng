@@ -1,0 +1,18 @@
+﻿# Language name and code
+lang_name					:Español
+lang_code					:es
+
+# NewGRF Informations
+grfname						:Set de autobuses de Corea
+title_introduction				:Introducción al Set de autobuses de Corea
+detail_comment					:<b>El Set de autobuses de Corea</b> o <b>Korean Bus Set</b> es un NewGRF de OpenTTD con el que le añades al mismo diversos autobuses de Seúl y Gyeonggi-do. Dispone de los parámetros necesarios para cambiar tanto velocidad como capacidad de sus autobuses. De igual modo, vía reforma, los autobuses admiten otros tipos de carga más alla de los pasajeros. Con la versión 0.3.2 del Set ya dispones de 8 tipos de autobuses distintos, de los cuales, en cualquier caso, encontrarás una lista detallada en esta misma pagina en la sección de 'Vehículos añadidos'.
+
+# Vehicle's names
+STR_SEOULBUS_B_NAME				:Bus de Seúl (Azul)
+STR_SEOULBUS_G_NAME				:Bus de Seúl (Verde)
+STR_SEOULBUS_R_NAME				:Bus de Seúl (Rojo)
+STR_SEOULBUS_Y_NAME				:Bus de Seúl (Amarillo)
+STR_GBUS_G_NAME					:Gyeonggi-do G-BUS (Verde)
+STR_GBUS_R_NAME					:Gyeonggi-do G-BUS (Rojo)
+STR_GBUS_Y_NAME					:Gyeonggi-do G-BUS (Amarillo)
+STR_GBUS_B_NAME					:Gyeonggi-do G-BUS (Azul)
