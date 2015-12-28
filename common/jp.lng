@@ -15,12 +15,14 @@ download					:ダウンロード
 latest						:最新
 old						:旧
 version						:バージョン
+stable						:安定
+nightly						:開発
 up_date						:アップデート日付
 md5sum						:MD5sum
 vehicle_img					:イメージ
 vehicle_name					:車名
-painting_able					:可能
-painting_unable					:不可能
+able						:可能
+unable						:不可能
 fold						:展開
 
 title_recent_version				:最新バージョンダウロード

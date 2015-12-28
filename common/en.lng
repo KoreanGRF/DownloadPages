@@ -16,7 +16,7 @@ latest						:Recent
 old						:Old
 version						:Version
 stable						:Stable
-nightly						:Nightly
+nightly						:Develop
 up_date						:Registered
 md5sum						:MD5sum
 vehicle_img					:Image
@@ -37,7 +37,7 @@ written_in_kr					: (written in Korean)
 written_in_en					: (written in English)
 
 more_information_basic				:* If you want more information in English, then please email me (telk5093@gmail.com)
-more_information_translation			:* If you want to translate this NewGRF into your language, download <a href="/ottd/newgrf/{GRFCODE}/lang/english.lng" target="_blank" class="external">NewGRF language file (required)</a> and download page language files (which translates this page, elective) (<a href="/ottd/newgrf/lang/en.lng" target="_blank" class="external">common</a> / <a href="/ottd/newgrf/{GRFCODE}/lang/en.lng" target="_blank" class="external">individual</a>), translate them and email(telk5093@gmail.com) me.
+more_information_translation			:* If you want to translate this NewGRF into your language, please visit <a href="http://github.com/KoreanGRF" target="_blank" class="external">Github</a>, translate this NewGRF and DownloadPage, and pull them please.
 translate_to					:Translate {STRING} into English by Google Translator:
 context_download				:Click the file name that you want to download. (You don't need to login or sign up to download)
 info_beta_version				:Just use beta version for test, and please update when new stable version is released immediately.
