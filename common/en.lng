@@ -12,7 +12,7 @@ month_format					:%b %e, %Y
 
 # Page layout
 download					:Download
-latest						:Recent
+latest						:Latest
 old						:Old
 version						:Version
 stable						:Stable
@@ -25,7 +25,7 @@ painting_able					:Able
 painting_unable					:Unable
 fold						:Fold
 
-title_recent_version				:Download recent versions
+title_recent_version				:Download the latest version
 title_old_version				:Download old versions
 title_vehicle_list				:Added vehicles
 title_faq					:Frequently Asked Questions
