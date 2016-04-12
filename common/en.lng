@@ -1,7 +1,7 @@
 ﻿##grflangid 0x00
 
-# lang_name     : Language name in their native language
-# lange_name_en : Language name in English
+# lang_name    : Language name in their native language
+# lang_name_en : Language name in English
 lang_name					:English
 lang_name_en					:English
 lang_code					:en

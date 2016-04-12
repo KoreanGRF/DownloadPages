@@ -1,7 +1,7 @@
 ##grflangid 0x39
 
-# lang_name     : Language name in their native language
-# lange_name_en : Language name in English
+# lang_name    : Language name in their native language
+# lang_name_en : Language name in English
 lang_name					:日本語
 lang_name_en					:Japanese
 lang_code					:jp
